@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010447795447",
+    "project_id": "tokoto-504bf",
+    "storage_bucket": "tokoto-504bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010447795447:android:42c4430c6e34ef93343ff2",
+        "android_client_info": {
+          "package_name": "com.example.tokoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_RDWE62AUQaxsBbUR8g7Sgwou23TOmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
